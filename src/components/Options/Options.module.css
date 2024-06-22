@@ -1,0 +1,31 @@
+.but {
+  font-family: "Roboto", Arial, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  color: #2f4f4f;
+  background-color: #fff;
+  border: 2px solid #2f4f4f;
+  border-radius: 8px;
+  padding: 10px 20px;
+  margin-left: 15px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+}
+
+.but:hover {
+  color: #333;
+}
+
+.but:focus {
+  outline: none;
+}
+
+.text {
+  font-family: "Roboto", Arial, sans-serif;
+  font-size: 16px;
+  color: #333;
+  line-height: 1.5;
+  text-align: left;
+  margin-bottom: 20px;
+}

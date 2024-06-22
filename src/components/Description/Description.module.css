@@ -1,0 +1,19 @@
+.title {
+  font-family: "Roboto", Arial, sans-serif;
+  font-size: 48px;
+  font-weight: 600;
+  color: #2f4f4f;
+  text-align: left;
+  text-transform: capitalize;
+  line-height: 1.2;
+  margin-bottom: 30px;
+}
+
+.par {
+  font-family: "Roboto", Arial, sans-serif;
+  font-size: 16px;
+  color: #333;
+  line-height: 1.5;
+  text-align: left;
+  margin-bottom: 20px;
+}
